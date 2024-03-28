@@ -3,8 +3,8 @@ import * as S from './style'
 
 export default function Home() {
   return (
-    <S.Main>
+    <S.MainPage>
       Hello, Next.js!!!
-    </S.Main>
+    </S.MainPage>
   );
 }
